@@ -1,16 +1,15 @@
 {
-  "main.css": "/bubble-sort-game/static/css/main.294d5fb7.chunk.css",
-  "main.js": "/bubble-sort-game/static/js/main.4fc8150e.chunk.js",
-  "main.js.map": "/bubble-sort-game/static/js/main.4fc8150e.chunk.js.map",
-  "runtime~main.js": "/bubble-sort-game/static/js/runtime~main.fd11f94e.js",
-  "runtime~main.js.map": "/bubble-sort-game/static/js/runtime~main.fd11f94e.js.map",
+  "main.css": "/bubble-sort-game/static/css/main.dedd09e0.chunk.css",
+  "main.js": "/bubble-sort-game/static/js/main.4383e0e7.chunk.js",
+  "main.js.map": "/bubble-sort-game/static/js/main.4383e0e7.chunk.js.map",
+  "runtime~main.js": "/bubble-sort-game/static/js/runtime~main.c164c0f3.js",
+  "runtime~main.js.map": "/bubble-sort-game/static/js/runtime~main.c164c0f3.js.map",
   "static/js/2.de37840e.chunk.js": "/bubble-sort-game/static/js/2.de37840e.chunk.js",
   "static/js/2.de37840e.chunk.js.map": "/bubble-sort-game/static/js/2.de37840e.chunk.js.map",
-  "static/js/3.f1bbbdc7.chunk.js": "/bubble-sort-game/static/js/3.f1bbbdc7.chunk.js",
-  "static/js/3.f1bbbdc7.chunk.js.map": "/bubble-sort-game/static/js/3.f1bbbdc7.chunk.js.map",
+  "static/js/3.c70b6b5b.chunk.js": "/bubble-sort-game/static/js/3.c70b6b5b.chunk.js",
+  "static/js/3.c70b6b5b.chunk.js.map": "/bubble-sort-game/static/js/3.c70b6b5b.chunk.js.map",
   "index.html": "/bubble-sort-game/index.html",
-  "precache-manifest.5c8e77de808b693c70837307d8a5e24c.js": "/bubble-sort-game/precache-manifest.5c8e77de808b693c70837307d8a5e24c.js",
+  "precache-manifest.a848ba0acffa182d27e4d7e2eed50163.js": "/bubble-sort-game/precache-manifest.a848ba0acffa182d27e4d7e2eed50163.js",
   "service-worker.js": "/bubble-sort-game/service-worker.js",
-  "static/css/main.294d5fb7.chunk.css.map": "/bubble-sort-game/static/css/main.294d5fb7.chunk.css.map",
-  "static/media/logo.svg": "/bubble-sort-game/static/media/logo.06e73328.svg"
+  "static/css/main.dedd09e0.chunk.css.map": "/bubble-sort-game/static/css/main.dedd09e0.chunk.css.map"
 }
