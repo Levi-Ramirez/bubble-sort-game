@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bubble-sort-game/precache-manifest.f51be4f4ace9d4ae857f27cd03a58091.js"
+  "/bubble-sort-game/precache-manifest.8f3d77c65f48096a8e3faa6482b453a5.js"
 );
 
 workbox.clientsClaim();
