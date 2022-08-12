@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bubble-sort-game/static/js/3.c70b6b5b.chunk.js"
   },
   {
-    "revision": "8e28173c3792f947ec1768eab4cad61d",
+    "revision": "59341dfaae5983f1fa0db73e212e7585",
     "url": "/bubble-sort-game/index.html"
   }
 ];
