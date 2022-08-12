@@ -1,24 +1,21 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import './game-layout/Game-Lay.css'
+import SVG from './game-layout/Game-Lay'
+//import { lazy } from 'react';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="header">
+        <div></div>
+        <div className="header-1"> Bubble Sort Game </div>
+        <div className="header-2"> By Levi Ramirez </div>
+      </div>
+      <SVG></SVG>
+
+
+    </>
   );
 }
 
